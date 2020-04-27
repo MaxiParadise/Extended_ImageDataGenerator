@@ -2,6 +2,8 @@
 ## Tensorflow Keras API ImageDataGeneratorを拡張し、自作のノイズ付与機能を追加したサンプル 
 Tensorflow 2.1 + Python3.7にて動作確認  
 
+詳細は、以下のブログで解説しています。  
+https://maxigundan.com/deeplearning/?p=73
 
 # 使い方
 `python train_with_ExtImageDatagenerator.py`  
